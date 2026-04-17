@@ -1,0 +1,28 @@
+[34m[INFO](B[m Selected workflow: install
+[33m[NOTE](B[m kb_layout [35mus(B[m configured in settings.
+[34m[INFO](B[m Added KeybindsLayoutInit.sh to user Startup_Apps overlay
+[32m[OK](B[m You have chosen < 1440p resolution.
+[32m[OK](B[m 12H format set on waybar clocks succesfully.
+[33m[NOTE](B[m - Skipping [33mfastfetch(B[m
+[33m[NOTE](B[m - Backed up kitty to /home/scezian/.config/kitty-backup-back-up_0416_1351.
+[32m[OK](B[m - Replaced kitty with new configuration.
+[33m[NOTE](B[m - Backed up rofi to /home/scezian/.config/rofi-backup-back-up_0416_1351.
+[32m[OK](B[m - Replaced rofi with new configuration.
+[33m[NOTE](B[m - Backed up swaync to /home/scezian/.config/swaync-backup-back-up_0416_1351.
+[32m[OK](B[m - Replaced swaync with new configuration.
+[33m[NOTE](B[m - Backed up waybar to /home/scezian/.config/waybar-backup-back-up_0416_1351.
+[32m[OK](B[m - Copy of config for [33mbtop(B[m completed!
+[32m[OK](B[m - Copy of config for [33mcava(B[m completed!
+[32m[OK](B[m - Copy of config for [33mhypr(B[m completed!
+[32m[OK](B[m - Copy of config for [33mKvantum(B[m completed!
+[32m[OK](B[m - Copy of config for [33mqt5ct(B[m completed!
+[32m[OK](B[m - Copy of config for [33mqt6ct(B[m completed!
+[32m[OK](B[m - Copy of config for [33mswappy(B[m completed!
+[32m[OK](B[m - Copy of config for [33mwallust(B[m completed!
+[32m[OK](B[m - Copy of config for [33mwlogout(B[m completed!
+[32m[OK](B[m - Restored directory: [35mMonitor_Profiles(B[m
+[32m[OK](B[m - Restored directory: [35manimations(B[m
+[32m[OK](B[m - Restored directory: [35mwallpaper_effects(B[m
+[32m[OK](B[m - Restored file: [35mmonitors.conf(B[m
+[32m[OK](B[m - Restored file: [35mworkspaces.conf(B[m
+[33m[NOTE](B[m Restoring previous [35mUser-Configs(B[m... 
